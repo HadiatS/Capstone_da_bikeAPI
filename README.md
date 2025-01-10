@@ -10,7 +10,7 @@ INPUT:
 
 STATIC:
 1. Mendapatkan data semua stations dengan '/stations/'
-2. Mendapatkan table dari station_id dengan mengetikan '/stations_id/'
+
 3. Mendapatkan semua data table dari stations dengan filter status station'/<status_station>') -> sama dengan staions dan status id >> trial
 4. @app.route('/trips/') -> dapatkan data tabel semua trips
 5. @app.route('/join/') gabungkan data table trips dan stations
